@@ -1,4 +1,4 @@
-print ("Hola Mundooo");
+print ("Hola Mund000");
 size (600,600);
 background (100,200,100);
 stroke(0);
